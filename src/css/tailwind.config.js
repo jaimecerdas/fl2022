@@ -16,6 +16,8 @@ module.exports = {
           700: '#4C4C4C',
           800: '#333333',
           900: '#191919',
+          1000: '#E6E6E7',
+          1100: '#DDDDE3'
         },
         blue: {
           100: '#E6F0FD',
@@ -27,6 +29,9 @@ module.exports = {
           700: '#0064DA',
           800: '#0059C2',
           900: '#004391',
+          1000: '#112d4e',  // Factor Azul Oscuro
+          1100: '#3f72af',  // Factor Azul Claro
+          1200: '#8494ac'
         },
         teal: {
           100: '#E6FFFA',
