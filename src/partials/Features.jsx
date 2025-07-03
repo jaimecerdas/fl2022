@@ -34,7 +34,7 @@ function Features() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h1 className="h2 mb-4">Nuestra filosofía</h1>
+            <h1 className="h2 mb-4">Comprosimo con nuestros clientes</h1>
             <p className="text-xl text-gray-600"></p>
           </div>
 
@@ -66,7 +66,7 @@ function Features() {
                   onClick={(e) => { e.preventDefault(); setTab(2); }}
                 >
                   <div>
-                    <div className="font-bold leading-snug tracking-tight mb-1">Compromiso</div>
+                    <div className="font-bold leading-snug tracking-tight mb-1">Excelencia</div>
                     <div className="text-gray-600">Servicio de altísima calidad.</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
