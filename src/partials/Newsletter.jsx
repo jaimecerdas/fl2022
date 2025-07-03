@@ -42,9 +42,9 @@ function Newsletter() {
               {/* CTA content */}
               <div className="text-center lg:text-left lg:max-w-xl">
                 <h3 className="h3 text-blue-1000 mb-2">Contacto</h3>
-                <p className="text-gray-900 text-lg mb-6">M.Sc. Jaime Cerdas<br />Teléfono: +506 6421-6513 <br />Correo electrónico: 
+                <p className="text-gray-900 text-lg mb-6">M.Sc. Jaime Cerdas<br />Teléfono: +506 6357-5070 <br />Correo electrónico: 
                 <a href="mailto:jacerdas@abogados.or.cr"> jacerdas@abogados.or.cr</a></p>
-                <a className="btn text-white bg-blue-600 hover:bg-blue-700 shadow" href="https://wa.me/50664216513" target="_blank">Contactar por WhatsApp
+                <a className="btn text-white bg-blue-600 hover:bg-blue-700 shadow" href="https://wa.me/50663575070" target="_blank">Contactar por WhatsApp
                 </a>
                 <ul className="flex mb-4 md:order-1 md:ml-4 md:mb-0">
           </ul>
