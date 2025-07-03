@@ -32,8 +32,8 @@ function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Asesoramiento empresarial</h4>
-              <p className="text-gray-600 text-center">Aspectos legales del ejercicio comercial.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Asesoría empresarial</h4>
+
             </div>
 
             {/* 2nd item */}
@@ -49,7 +49,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Derecho Laboral</h4>
-              <p className="text-gray-600 text-center">Consultoría en el ámbito laboral.</p>
+
             </div>
 
             {/* 3rd item */}
@@ -64,7 +64,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Derecho de Familia</h4>
-              <p className="text-gray-600 text-center">Asuntos familiares</p>
+
             </div>
 
             {/* 4th item */}
@@ -81,7 +81,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>              
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Derecho Administrativo</h4>
-              <p className="text-gray-600 text-center">Procedimientos administrativos.</p>
+
             </div>
 
             {/* 5th item */}
@@ -96,7 +96,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Derecho de Tránsito</h4>
-              <p className="text-gray-600 text-center">Procesos de Tránsito y apelaciones.</p>
+
             </div>
 
             {/* 6th item */}
@@ -113,7 +113,7 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Derecho Comercial</h4>
-              <p className="text-gray-600 text-center">Contratos y consultoría.</p>
+
             </div>
 
           </div>
