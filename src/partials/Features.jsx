@@ -51,8 +51,8 @@ function Features() {
                   onClick={(e) => { e.preventDefault(); setTab(1); }}
                 >
                   <div>
-                    <div className="font-bold leading-snug tracking-tight mb-1">Disponibilidad inmediata</div>
-                    <div className="text-gray-600">Atención inmediata de las necesidades de nuestros clientes.</div>
+                    <div className="font-bold leading-snug tracking-tight mb-1">Disponibilidad</div>
+                    <div className="text-gray-600">Atención inmediata.</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                   <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
