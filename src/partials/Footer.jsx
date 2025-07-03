@@ -29,7 +29,7 @@ function Footer() {
           </ul>
 
           {/* Copyrights note */}
-          <div className="text-sm text-gray-600 mr-4">Factor Legal, 2022.</div>
+          <div className="text-sm text-gray-600 mr-4">Factor Legal, 2025.</div>
 
         </div>
 
