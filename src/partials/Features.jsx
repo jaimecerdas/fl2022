@@ -52,7 +52,7 @@ function Features() {
                 >
                   <div>
                     <div className="font-bold leading-snug tracking-tight mb-1">Disponibilidad inmediata</div>
-                    <div className="text-gray-600">La prioridad en nuestra labor es la atención inmediata de las necesidades de nuestros clientes y la pronta resolución de sus solicitudes acorde con la normativa vigente.</div>
+                    <div className="text-gray-600">Atención inmediata de las necesidades de nuestros clientes.</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                   <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -67,7 +67,7 @@ function Features() {
                 >
                   <div>
                     <div className="font-bold leading-snug tracking-tight mb-1">Compromiso</div>
-                    <div className="text-gray-600">Prestar un servicio de altísima calidad por medio del cual el cliente reciba la información necesaria sobre sus inquietudes y se facilite la toma de decisiones adecuadas para su situación jurídica particular.</div>
+                    <div className="text-gray-600">Servicio de altísima calidad.</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -82,7 +82,7 @@ function Features() {
                 >
                   <div>
                     <div className="font-bold leading-snug tracking-tight mb-1">Atención personalizada</div>
-                    <div className="text-gray-600">La mayor garantía de nuestra calidad de servicio. Contamos con alianzas profesionales estratégicas para la atención de sus requerimientos.</div>
+                    <div className="text-gray-600">Garantía de nuestra calidad de servicio.</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                   <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
